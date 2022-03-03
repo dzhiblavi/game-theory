@@ -1,1 +1,0 @@
-/usr/bin/g++-10  -g   CMakeFiles/R.dir/R.cpp.o  -o R 

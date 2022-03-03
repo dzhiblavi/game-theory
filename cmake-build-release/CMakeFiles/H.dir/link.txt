@@ -1,1 +1,0 @@
-/usr/bin/g++-10  -O3 -DNDEBUG   CMakeFiles/H.dir/H.cpp.o  -o H 

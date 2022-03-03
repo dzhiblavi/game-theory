@@ -1,4 +1,0 @@
-/usr/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_C_COMPILER=/usr/bin/gcc-10 -DCMAKE_CXX_COMPILER=/usr/bin/g++-10 -G "CodeBlocks - Unix Makefiles" /home/dzhiblavi/itmo/game-theory
--- Configuring done
--- Generating done
--- Build files have been written to: /home/dzhiblavi/itmo/game-theory/cmake-build-release

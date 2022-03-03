@@ -1,9 +1,0 @@
-/home/dzhiblavi/itmo/game-theory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/dzhiblavi/itmo/game-theory/cmake-build-debug/CMakeFiles/G.dir
-/home/dzhiblavi/itmo/game-theory/cmake-build-debug/CMakeFiles/R.dir
-/home/dzhiblavi/itmo/game-theory/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/dzhiblavi/itmo/game-theory/cmake-build-debug/CMakeFiles/B.dir
-/home/dzhiblavi/itmo/game-theory/cmake-build-debug/CMakeFiles/H.dir
-/home/dzhiblavi/itmo/game-theory/cmake-build-debug/CMakeFiles/D.dir
-/home/dzhiblavi/itmo/game-theory/cmake-build-debug/CMakeFiles/C.dir
-/home/dzhiblavi/itmo/game-theory/cmake-build-debug/CMakeFiles/A.dir
