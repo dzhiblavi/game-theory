@@ -1,0 +1,1 @@
+/usr/bin/g++-10  -O3 -DNDEBUG   CMakeFiles/B.dir/B.cpp.o  -o B 

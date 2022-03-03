@@ -1,0 +1,1 @@
+/usr/bin/g++-10  -g   CMakeFiles/B.dir/B.cpp.o  -o B 
